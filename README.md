@@ -24,7 +24,7 @@ This app showcases my projects, skills, achievements, and contact information �
 ## 🔗 Connect With Me
 - 💼 https://www.linkedin.com/in/saif-ur-rehman-akhtar-84b1b3349
 - 📧 saifofficial72@gmail.com
-- 🌍 [GitHub Profile](https://github.com/saifofficial-ux)
+- 🌍 [GitHub Profile]([https://github.com/saifofficial-ux](https://github.com/saifofficial-dev))
 
 ## 🚀 Getting Started
 
